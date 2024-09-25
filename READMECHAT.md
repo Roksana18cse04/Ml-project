@@ -56,7 +56,7 @@ The Search List Data Analysis project effectively provides insights into user se
 - Data Visualization (Bar Plots, Heatmaps)
 
 ## Author
-- Your Name
+- Roksana Akter
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
